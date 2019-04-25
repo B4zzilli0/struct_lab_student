@@ -5,3 +5,10 @@ C:\Users\maxutor\Desktop\struct_lab_student\struct_lab_student\bin\Debug\struct_
 C:\Users\maxutor\Desktop\struct_lab_student\struct_lab_student\bin\Debug\struct_lab_student.pdb
 C:\Users\maxutor\Desktop\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.exe
 C:\Users\maxutor\Desktop\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.pdb
+C:\Users\genya\OneDrive\Рабочий стол\11\struct_lab_student\struct_lab_student\bin\Debug\struct_lab_student.exe.config
+C:\Users\genya\OneDrive\Рабочий стол\11\struct_lab_student\struct_lab_student\bin\Debug\struct_lab_student.exe
+C:\Users\genya\OneDrive\Рабочий стол\11\struct_lab_student\struct_lab_student\bin\Debug\struct_lab_student.pdb
+C:\Users\genya\OneDrive\Рабочий стол\11\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.csprojAssemblyReference.cache
+C:\Users\genya\OneDrive\Рабочий стол\11\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.csproj.CoreCompileInputs.cache
+C:\Users\genya\OneDrive\Рабочий стол\11\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.exe
+C:\Users\genya\OneDrive\Рабочий стол\11\struct_lab_student\struct_lab_student\obj\Debug\struct_lab_student.pdb
